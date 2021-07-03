@@ -80,9 +80,5 @@ function dropdown(sample){
     })
 }
 
-function optionChanged(sample){
-    createChart(sample);
-    metadata(sample);
-}
 // Call dropdown box to activate
 dropdown()
