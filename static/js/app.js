@@ -80,5 +80,4 @@ function dropdown(sample){
     })
 }
 
-// Call dropdown box to activate
 dropdown()
